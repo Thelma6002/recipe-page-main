@@ -132,16 +132,11 @@ td{
     padding: 10px 30px;
 }
 
-#thick-data{
+.nutritional-content{
     color: var(--primary-Nutmeg);
     font-weight: var(--Content-Weight-2);
 }
 
-.attribution{
-    background: var(--neutral-RoseWhite); 
-    padding: 5px 10px 10px 20px;
-    border-radius: 10px;
-}
 
 a{
     text-decoration: none;
